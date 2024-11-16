@@ -1,2 +1,2 @@
 # first-demo
-This is demo class of the git &amp; github
+This is demo class of the git &amp; github.
